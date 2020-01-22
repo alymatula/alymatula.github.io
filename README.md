@@ -1,2 +1,1 @@
 alymatula.github.io
-website
